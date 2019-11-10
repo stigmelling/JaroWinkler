@@ -1,9 +1,8 @@
 # JaroWinkler
 Jaro-Winkler. Providing a similarity measure between two strings.
+https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance
 
 JaroWinkler implementation for MySQL/MariaDb based on Apache Commons JaroWinklerSimilarity
-
-https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance
 
 The Apache implementation 
 Api doc
