@@ -12,4 +12,3 @@ Code:
 https://github.com/apache/commons-text/blob/master/src/main/java/org/apache/commons/text/similarity/JaroWinklerSimilarity.java
 
 
-Read about Jaro Winkler 
