@@ -91,7 +91,6 @@ BEGIN
             set prefix = prefix + 1;
         else
             set mi = 100;
-#             set doBreak = true;
         end if;
         set mi = mi +1 ;
     end while;
